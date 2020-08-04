@@ -14,7 +14,6 @@ function Home({navigation}) {
             <Text style={{color:'white'}}>Amelie Schneider</Text>
             <Text style={{color:'white'}}>11715842</Text>
         </View>
-        {/* Search Field */}
         <View style={styles.centeredView}>
             {/* Search Field */}
             <TextInput

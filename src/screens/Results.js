@@ -35,7 +35,7 @@ function Results ({route, navigation}) {
         fetchData();
         favouriteTextSetting();
 
-      }, []);
+    }, []);
 
     // Change Setting of movie as Favourite
     const changeFavouriteState = () => {
